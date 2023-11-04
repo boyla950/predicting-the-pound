@@ -19,6 +19,6 @@ As volatility is not directly observable, it was necessary to select an appropri
 
 
 ## Feedback
-The final mark received for the whole project was **82%**. Feedback from my supervisor, [Dr Robert Sollis](https://www.ncl.ac.uk/business/people/profile/robertsollis.html), can be seen [here]().
+The final mark received for the whole project was **82%**. Feedback from my supervisor, [Prof. Robert Sollis](https://www.ncl.ac.uk/business/people/profile/robertsollis.html), can be seen [here]().
 
 > By [boyla950](https://github.com/boyla950).
