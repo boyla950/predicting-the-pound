@@ -10,6 +10,18 @@ As volatility is not directly observable, it was necessary to select an appropri
 
 
 ## The Models
+EWMA
+
+GARCH-Type
+- GARCH
+- EGARCH
+- GJR-GARCH
+- TGARCH
+
+Implied Volatility
+
+
+
 
 
 ## The Results
